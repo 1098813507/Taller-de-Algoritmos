@@ -1,0 +1,5 @@
+print ("union de comentario")
+text1= input("Digite un texto")
+text2= input("Digite un texto")
+print(str(texto1))
+print(str(texto2))
